@@ -1,6 +1,6 @@
-# 国内 ChatGPT-4中文版镜像网站整理（2025/06/28）【镜像网站合集】
+# 国内 ChatGPT-4中文版镜像网站整理（2025/07/02）【镜像网站合集】
 
->更新时间： 2025/06/28    
+>更新时间： 2025/07/02    
  
 本文整理了目前国内可以直接访问的**ChatGPT镜像网站**。这些网站各有特点，适合不同需求的用户。 
 
@@ -20,7 +20,7 @@ ChatGPT镜像网站具有以下优点：
 ----
 
 ## 国内ChatGPT 镜像网站推荐
-1. [http://snakegpt.com.cn/](http://snakegpt.com.cn/) —— 运营时长三年，支持GPT4、GPT4o，deepseek，Midjourney绘画，国内邮箱直接注册
+1. [http://snakegpt.vip/](http://snakegpt.vip/) —— 运营时长三年，支持GPT4、GPT4o，deepseek，Midjourney绘画，国内邮箱直接注册
 2. [https://gptcat.cc/](https://gptcat.cc/) ——  运营时长两年，一比一还原官网，可以使用GPT4o的实时语音对话。支持Claude3，开通会员后可以同时使用GPT-o1、GPT-o3与Claude，支持使用canvas模型。
 3. [https://ai-panda.xyz/](https://ai-panda.xyz/)  ——  运营时长两年，支持GPT4.0、GPT4o。
 
@@ -29,7 +29,7 @@ ChatGPT镜像网站具有以下优点：
 ## 如何快速使用ChatGPT镜像网站
 
 ### **通过镜像网站快速体验**
-1. **选择镜像站点**：如 [snakegpt.com.cn](https://snakegpt.com.cn)。
+1. **选择镜像站点**：如 [snakegpt.vip](https://snakegpt.vip)。
 2. **注册或直接使用**：
    - 邮箱注册：输入邮箱和密码完成注册。
    - 免注册：开始聊天，输入问题即可。
